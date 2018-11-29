@@ -7,3 +7,4 @@ int main(void){
     printf("%d",a[1]);
     return 0;
 }
+//2018.11.29
